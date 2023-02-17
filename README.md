@@ -18,6 +18,7 @@ Antes de rodar a aplicação é preciso garantir que as seguintes dependências 
 
 - Node  
 - NPM 
+- Usar o npm install --save react-scripts para instalar o react scripts
 
 
 Funcionalidades
