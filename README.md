@@ -11,7 +11,6 @@ React(Biblioteca) : é uma biblioteca front-end JavaScript de código aberto com
 
 
 
-Setup da aplicação (local)
 
 Pré-requisito
 Antes de rodar a aplicação é preciso garantir que as seguintes dependências estejam corretamente instaladas:
