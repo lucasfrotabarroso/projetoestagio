@@ -1,4 +1,4 @@
-Projeto utilizado na seleção para à vaga de Estágio FULL STACK
+Projeto realizado  para à vaga de Estágio FULL STACK
 
 Visão geral
 O projeto é uma aplicação front-end e back end para a criação de um sistema de login.
